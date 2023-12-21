@@ -1,6 +1,64 @@
 h1 { 
     font-family: 'Times New Roman', Times, serif;
+    color: antiquewhite;
 }
 .diff-bg {
     background-color: cornflowerblue !important;
 }
+
+/* .customimg {
+    width: 300px;
+    height: 200;
+} */
+li {
+    font-weight: 400;
+    text-decoration: none;
+}
+.bold {
+    font-weight: bold;
+}
+.underline {
+    text-decoration: underline;
+}
+.homebg {
+    background-image: url(../assets/img/other_background.jpeg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text-style-list {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+/* .tableauPlaceholder {
+  position: relative;
+  top: 150%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
+.my-list {
+    position: relative;
+    z-index: 2;
+  } */
+/* body {
+    background-image: url("../assets/img/other_background.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  } */
+  .headerbox {
+    border: 20px solid black;
+    padding: 100px;
+    text-align: center;
+  }
+/* .list-title-style li{
+    font-weight: bold;
+    text-decoration: underline;
+}
+li { 
+    font-weight: normal;
+    text-decoration: none;
+}
+.unordered-list li{
+    font-weight: 400;
+    text-decoration: none;
+} */
